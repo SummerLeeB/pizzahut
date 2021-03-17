@@ -183,7 +183,7 @@ section.menu {
 	cursor: pointer;
 }
 .menu .row .left_menu {
-	background-image: url(../img/Menu/pizza.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Menu/pizza.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -219,25 +219,25 @@ section.menu {
 	height: 25vw;
 }
 .menu .row .right_menu ul li:first-child {
-	background-image: url(../img/Menu/setmenu.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Menu/setmenu.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .menu .row .right_menu ul li:nth-child(2) {
-	background-image: url(../img/Menu/sidemenu.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Menu/sidemenu.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .menu .row .right_menu ul li:nth-child(3) {
-	background-image: url(../img/Menu/pizzahut_logo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Menu/pizzahut_logo.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .menu .row .right_menu ul li:last-child {
-	background-image: url(../img/Menu/drink.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Menu/drink.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -288,19 +288,19 @@ section.slide {
 	height: 100vh;
 }
 .swiper-wrapper .slide01 {
-	background-image: url(../img/Slide/Slide01.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide01.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .swiper-wrapper .slide02 {
-	background-image: url(../img/Slide/Slide02.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide02.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 .swiper-wrapper .slide03 {
-	background-image: url(../img/Slide/Slide03.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide03.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -593,15 +593,15 @@ footer .footer_wrap {
 	}
 	/*****section.SLIDE 스타일*****/
 	.swiper-wrapper .slide01 {
-		background-image: url(../img/Slide/Slide_Mobile01.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile01.png);
 		height: 100vw;
 	}
 	.swiper-wrapper .slide02 {
-		background-image: url(../img/Slide/Slide_Mobile02.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile02.png);
 		height: 100vw;		
 	}
 	.swiper-wrapper .slide03 {
-		background-image: url(../img/Slide/Slide_Mobile03.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile03.png);
 		height: 100vw;
 	}
 	.slide .slide_next {
@@ -816,15 +816,15 @@ footer .footer_wrap {
 	}	
 	/*****section.SLIDE 스타일*****/
 	.swiper-wrapper .slide01 {
-		background-image: url(../img/Slide/Slide_Mobile01.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile01.png);
 		height: 100vw;
 	}
 	.swiper-wrapper .slide02 {
-		background-image: url(../img/Slide/Slide_Mobile02.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile02.png);
 		height: 100vw;		
 	}
 	.swiper-wrapper .slide03 {
-		background-image: url(../img/Slide/Slide_Mobile03.png);
+		background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/pizzahut/img/Slide/Slide_Mobile03.png);
 		height: 100vw;
 	}
 	.slide .slide_next {
